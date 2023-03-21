@@ -53,7 +53,7 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Affirm has created a competitive advantage by leveraging unique data sources from merchants (SKU level purchase history data) and combined it with new data sources derived from their mobile/eCommerce experience to better underwrite risk decisions and thus lower credit risk and increase credit approval rates.  They also have the latest technology to collect, process and analyze big data at scale to complete real time credit decisions utilizing machine learning based models that capture more data faster and utilize this data for BNPL pricing, fraud risk, credit risk and approve/decline decisions. 
 
-### *Superior Proprietary Risk Models*
+#### *Superior Proprietary Risk Models*
 
 * Traditional banks use FICO score and static internal credit scores based on payment history, credit utilization, delinquency history and credit inquiries.  These lenders don't use transaction level data, merchant data or eCommerce/Mobile data as extensively in risk management.  In addition, Affirm's new technology leverages continuous learning to constantly update risk models real time with the ability to scale these models rapidly. 
 
