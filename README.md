@@ -3,6 +3,8 @@
 
 ---
 
+![A1](./asset/AffirmM1.png)
+
 ## **Company Overview:**
 
 Affirm is a FinTech company founded in 2012 by Max Levchin, Nathan Gettings, Jeffrey Kaditz, and Alex Rampell.  Max was a Co-Founder of PayPal in a prior role and Nathan was a Founder of Palantir Technologies in a prior role.  The team was working on product testing in the first two years of the business with the mission to "Deliver financial products that improve lives".  
@@ -21,6 +23,10 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 | 2020 | Series G | $500 M | Durable Capital |
 | 2021 | IPO | $1.2 B | IPO Value: $11.9 B. |
  
+
+![A2](./asset/AffirmM2.png)
+
+
 ---
 
 ## **Business Activities:**
@@ -31,6 +37,10 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Affirm believes it delivers on its promises by offering a competitive advantage in the way it utilizes technology in credit underwriting and risk management at the Point of Sale (POS) in offline (brick and mortar) retail environments and in online eCommerce transactions.  Affirm delivers to merchants a multi-channel POS credit solution that results in lower fraud rates, higher credit approval rates, lower credit loss rates and higher retail and eCommerce sales.  This is a significant win for merchants, Affirm is telling them they can drive merchant sales higher by instantly approving shoppers for credit when they check-out (online or offline).  Customers shopping at retail stores win because they have another way to pay for a purchase that increases their purchasing power and flexibility.  
 
+
+![A2](./asset/BNPLAffirmModel.png)
+
+
 ### ***Consumer and Merchant Focused Solutions***
 
 * Affirm's core product is a "Buy Now Pay Later" credit product.  This product gives consumers the option to buy products online or offline instantly while paying for the product over 6 weeks to 60 months.  This product delivers instant loan approval on the spot through a simple, frictionless application process that provides customers with 0% APR offers or simple interest loan offers (not compounding interest loan offers which is the standard product at all other lenders - this is another competitive selling point for Affirm).  The BNPL product gets delivered via a payment option at check-out alongside credit, debit or cash options or a virtual single use digital visa card that can get used at check-out.  This BNPL product is Affirms primary revenue and growth driver, they have added additional products such as an Affirm debit card and high yield savings account to deepen customer relationships.
@@ -39,7 +49,13 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Merchants are also provided relationship management support, reporting and analytics insights into customer spending patterns.  Affirm utilizes their technology platform to deliver more in-depth, real-time decision analytics to help merchants drive more sales growth.  This feedback loop between consumer data and merchant data helps drive future sales by better targeting price promotions for BNPL financing which in turn drives Affirms sales growth.  
 
-![BNPL](BNPL Affirm Model.png)
+![Walmart](./asset/walmart.png) 
+
+![Pel](./asset/PELOTON.png)
+
+![Shop](./asset/shopify.png) 
+
+![Price](./asset/priceline.png)
 
 ### ***Affirm's Competitive Advantages***
 
@@ -57,11 +73,15 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Traditional banks use FICO score and static internal credit scores based on payment history, credit utilization, delinquency history and credit inquiries.  These lenders don't use transaction level data, merchant data or eCommerce/Mobile data as extensively in risk management.  In addition, Affirm's new technology leverages continuous learning to constantly update risk models real time with the ability to scale these models rapidly. 
 
+![Mod](./asset/AffirmModel.png)
+
 #### *Technology and Infrastructure*
 
 * The data advantage requires a technology infrastructure advantage to make things work in real time.  Affirm has deployed the latest in machine learning, AI and Cloud based technology that helps support operational execution of their BNPL product at POS.  Legacy banks do not have all this new technology infrastructure in place to deliver such a product at scale.  In addition, the new technology comes with direct API access that helps on-board any retailer into Affirm systems at a low cost to the retailer.  This is another huge advantage over legacy banks who require a large IT project for integration that also costs the retailer IT resources (people and financial).  Affirm can integrate a new retailer within days of signing a contract due to its in-house, custom built API technology.
 
 * The Affirm technology platform has 3 specific elements: point-of-sale payment solutions for consumers, merchant commerce solutions and a consumer focused app.  All this technology is custom built in-house instead of off the shelf purchases of technology.  Affirm believes it's own engineered technology helps them deliver a competitive edge in delivering better products, better service and betters results to consumers and merchants vis-a-vis competitors.    
+
+![Exp](./asset/Experience.png)
 
 ---
 
@@ -104,6 +124,11 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 * Another key industry metric that is working for Affirm is its Average Order Value (AOV), Affirm has an AOV of $657 vs. AfterPay at $150.  The driver for this difference is Affirm has the ability to underwrite and approve higher ticket purchases vs. competing BNPL competitors.  Affirm for example is the primary BNPL for Peleton and helps Peleton sell their higher ticket bikes via BNPL.  Affirm offers payment terms from 6 weeks to 60 months which allows for higher ticket sales vs. competitors like AfterPay usually offer terms up to 30 days. 
 
 * A final metric differentiator that confirms the value of their data and risk management strategy is their % of loans 30+ days delinquent vs. competitors.  Affirm delinquency rates are approx. ~50-60% lower than competing FinTech lenders and ~60-70% lower than competing personal lenders (banks) as of their last tranche reported Sept. 2020 by Credit Suisse.  
+
+![LR](./asset/LossRate.png)
+
+![PNC](./asset/PortfolioNetChargeoffs.png)
+
 
 ---
 
