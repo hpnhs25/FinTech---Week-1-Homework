@@ -27,13 +27,13 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 ### ***Value Proposition***
 
-* The Founders were trying to solve the problem that old, legacy payment, credit and technology infrastructure that existed at all the top banks and lending institutions in the United States was driving harmful and deceptive outcomes with poor experiences for customers and merchants.  Affirm was looking to solve this problem by building a technologically advanced, mobile first eCommerce platform that supported more innovation to build a better customer and merchant experience.  The founding principles involved putting people first through simple, transparent products and services with no surpises and no hidden fees.     
+* The Founders were trying to solve the problem that old, legacy payment, credit and technology infrastructure that existed at all the top banks and lending institutions in the United States was driving harmful and deceptive outcomes with poor experiences for customers and merchants.  Affirm was looking to solve this problem by building a technologically advanced, mobile first eCommerce platform that supported more innovation to build a better customer and merchant experience.  The founding principles involved putting people first through simple, transparent products and services with no surprises and no hidden fees.     
 
-* Affirm believes it delivers on its promises by offering a competitive advantage in the way it utilizes technology in credit underwriting and risk management at the Point of Sale (POS) in offline (brick and mortar) retail environments and in online eCommerce transactions.  Affirm delivers to merchants a multi-channel POS credit solution that results in lower fraud rates, higher credit approval rates, lower credit loss rates and higher retail and eCommerce sales.  This is a significant win for merchants, Affirm is telling them they can drive merchant sales higher by instantly approving shoppers for credit when they check-out (online or offline).  Customers shopping at retail stores win because they have another way to pay for a purchase that increases their purchasing power and flexiblity.  
+* Affirm believes it delivers on its promises by offering a competitive advantage in the way it utilizes technology in credit underwriting and risk management at the Point of Sale (POS) in offline (brick and mortar) retail environments and in online eCommerce transactions.  Affirm delivers to merchants a multi-channel POS credit solution that results in lower fraud rates, higher credit approval rates, lower credit loss rates and higher retail and eCommerce sales.  This is a significant win for merchants, Affirm is telling them they can drive merchant sales higher by instantly approving shoppers for credit when they check-out (online or offline).  Customers shopping at retail stores win because they have another way to pay for a purchase that increases their purchasing power and flexibility.  
 
 ### ***Consumer and Merchant Focused Solutions***
 
-* Affirm's core product is a "Buy Now Pay Later" credit product.  This product gives consumers the option to buy products online or offline instanly while paying for the product over 6 weeks to 60 months.  This product delivers instant laon approval on the spot through a simple, frictionless application process that provides customers with 0% APR offers or simple interest loan offers (not compounding interest loan offers which is the standard product at all other lenders - this is another competitive selling point for Affirm).  The BNPL product gets delivered via a payment option at check-out alongside credit, debit or cash options or a virtual single use digital visa card that can get used at check-out.  This BNPL product is Affirms primary revenue and growth driver, they have added additional products such as an Affirm debit card and high yield savings account to deepen customer relationships.
+* Affirm's core product is a "Buy Now Pay Later" credit product.  This product gives consumers the option to buy products online or offline instantly while paying for the product over 6 weeks to 60 months.  This product delivers instant loan approval on the spot through a simple, frictionless application process that provides customers with 0% APR offers or simple interest loan offers (not compounding interest loan offers which is the standard product at all other lenders - this is another competitive selling point for Affirm).  The BNPL product gets delivered via a payment option at check-out alongside credit, debit or cash options or a virtual single use digital visa card that can get used at check-out.  This BNPL product is Affirms primary revenue and growth driver, they have added additional products such as an Affirm debit card and high yield savings account to deepen customer relationships.
 
 * Affirm also has merchants as customers because they have to convince merchants to offer their BNPL payment product at check-out along side their other payment options (credit cards, debit cards, cash, prepaid cards and checks).  Affirm leverages their own direct Application Programming Interface (API) to help merchants easily incorporate their payment option at check-out.  Merchants are always interested in anything that helps them drive sales growth and Affirm's BNPL product helps merchants do just that; Merchants also determine if they want to utilize 0% APR financing options or promotional pricing options financed by suppliers to drive sales.  These financing options funded by merchants, manufacturers and merchant suppliers flow to Affirm as revenues to support the BNPL product.   
 
@@ -55,7 +55,7 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 ### *Superior Proprietary Risk Models*
 
-* Traditional banks use FICO score and static internal credit scores based on payment history, credit utilization, delinquency history and credit inquiries.  These lenders don't use transaction level data, merchant data or eCommerce/Mobile data as extensively in risk management.  In addition, Affirm's new technology leverages continous learning to constantly update risk models real time with the ability to scale these models rapidly. 
+* Traditional banks use FICO score and static internal credit scores based on payment history, credit utilization, delinquency history and credit inquiries.  These lenders don't use transaction level data, merchant data or eCommerce/Mobile data as extensively in risk management.  In addition, Affirm's new technology leverages continuous learning to constantly update risk models real time with the ability to scale these models rapidly. 
 
 #### *Technology and Infrastructure*
 
@@ -69,13 +69,13 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Credit Suisse in its report on Affirm estimated the Total Addressable Market (TAM) for BNPL products is ~3% of the total US eCommerce market which equals ~$50 B. market size in 2023.  They further estimate the upside for this market is an additional 3% for a total of 6% of the Total US eCommerce market or ~$100 B. in size.
 
-* BNPL product penetration is much lower in the US campared to other countries like Sweden, Germany, Australia.  The hypothesis behind this is related to interchange regulations and credit card rewards programs.  In the US, high interchange fees paid by merchants fund rich credit card rewards programs.  Given customers like these rewards programs, adoption of other payment option is much lower in the US than other countries.  Sweden, Germany and Australia have more tringent interchange fee caps that eliminate credit card reward programs and thus BNPL penetraton is greater than in the US (8-25% vs. 3%).  
+* BNPL product penetration is much lower in the US compared to other countries like Sweden, Germany, Australia.  The hypothesis behind this is related to interchange regulations and credit card rewards programs.  In the US, high interchange fees paid by merchants fund rich credit card rewards programs.  Given customers like these rewards programs, adoption of other payment option is much lower in the US than other countries.  Sweden, Germany and Australia have more stringent interchange fee caps that eliminate credit card reward programs and thus BNPL penetration is greater than in the US (8-25% vs. 3%).  
 
 ---
 
 ## **Competitive Landscape:**
 
-* Affirm competes in the payments & lending vertical of the FinTech industry.  It's primary payment competitors are Visa, MasterCard and Paypal.  are US national banks with credit card and consumer installment loan operations at scale.  These competitors include: JP Morgan Chase, Citi, Bank of America, Capital One, Discover Card and AMEX.  New lending competitors such as Goldman Sachs and FinTech firms such as Klarna (Europe centric), Block and AfterPay (Australia centric) are also competitors in this space.
+* Affirm competes in the payments & lending vertical of the FinTech industry.  Its primary payment competitors are Visa, MasterCard and PayPal.  are US national banks with credit card and consumer installment loan operations at scale.  These competitors include: JP Morgan Chase, Citi, Bank of America, Capital One, Discover Card and AMEX.  New lending competitors such as Goldman Sachs and FinTech firms such as Klarna (Europe centric), Block and AfterPay (Australia centric) are also competitors in this space.
 
 * Affirm, Klarna are the two leaders in the BNPL lending space.  Klarna in Europe and Affirm in the US.  As leaders in this space, they have really been the trend setters, disruption leaders and innovators in this space.  None of the competitors above come close to matching the technology, credit product, data and network effects.  Affirm is the US marketshare leader in the BNPL space with over 30% of total BNPL transactions going through Affirm (in 2021).  Credit Suisse projects their 30.8% market share to grow to 35.8% in 2023.  Klarna and AfterPay are the top 2 competitors to Affirm in the BNPL space.  
 
@@ -97,13 +97,13 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Total Revenues have grown from $510 M in 2020 to $1.35 B. in 2022 (63% CAGR)
 
-* In summary these growth rates FAR EXCEED anything acheived at traditional banks and credit card companies.
+* In summary these growth rates FAR EXCEED anything achieved at traditional banks and credit card companies.
 
 * A key customer metric for loyalty is the Net Promoter Score (NPS), these scores are usually low with all traditional financial services companies (in the single digits usually) so when Affirm came out with a +83 NPS score, that confirmed it's technology driven customer experience sets it apart from the competition.
 
-* Another key industry metric that is working for Affirm is it's Average Order Value (AOV), Affirm has an AOV of $657 vs. AfterPay at $150.  The driver for this difference is Affirm has the ability to underwrite and approve higher ticket purchases vs. competing BNPL competitors.  Affirm for example is the primary BNPL for Peleton and helps Peleton sell their higher ticket bikes via BNPL.  Affirm offers payment terms from 6 weeeks to 60 months which allows for higher ticket sales vs. competitors like AfterPay usually offer terms upto 30 days. 
+* Another key industry metric that is working for Affirm is its Average Order Value (AOV), Affirm has an AOV of $657 vs. AfterPay at $150.  The driver for this difference is Affirm has the ability to underwrite and approve higher ticket purchases vs. competing BNPL competitors.  Affirm for example is the primary BNPL for Peleton and helps Peleton sell their higher ticket bikes via BNPL.  Affirm offers payment terms from 6 weeks to 60 months which allows for higher ticket sales vs. competitors like AfterPay usually offer terms up to 30 days. 
 
-* A final metric differentiator that confirms the value of their data and risk management strategy is their % of loans 30+ days delinquent vs. competitors.  Affirm delinequency rates are approx. ~50-60% lower than competing FinTech lenders and ~60-70% lower than competing personal lenders (banks) as of their last tranche reported Sept. 2020 by Credit Suisse.  
+* A final metric differentiator that confirms the value of their data and risk management strategy is their % of loans 30+ days delinquent vs. competitors.  Affirm delinquency rates are approx. ~50-60% lower than competing FinTech lenders and ~60-70% lower than competing personal lenders (banks) as of their last tranche reported Sept. 2020 by Credit Suisse.  
 
 ---
 
@@ -117,9 +117,9 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * I think a couple of key issues need to be addressed: 
 
-* Build a more robust porfolio of assets that can drive growth during challenging retail times.  Assuming economic growth slows (which is forecasted for the next 3 years) and reduces retail sales growth.  Consumer staples are necessecities whose sales don't decline during a downturn.  How do you drive more BNPL usage in staples? 
+* Build a more robust portfolio of assets that can drive growth during challenging retail times.  Assuming economic growth slows (which is forecasted for the next 3 years) and reduces retail sales growth.  Consumer staples are necessities whose sales don't decline during a downturn.  How do you drive more BNPL usage in staples? 
 
-* Drive more purchase volume through lower ticket necessicities vs. only higher ticket luxury goods. 
+* Drive more purchase volume through lower ticket necessities vs. only higher ticket luxury goods. 
 
 * Drive merchant adoption at lower end retail outlets vs. higher end retail outlets
 
@@ -127,7 +127,7 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Push more revenue growth in alternative products adjacent to the BNPL product.  Examples include: Loan reload programs for previous customers, expand debit card business, new investment product business as the firm expands into more diversified financial products.
 
-* Shift the business model to more of a payments plaform similar to Visa/MC where new banks enter the system to buy the loans or originate new loans on the platform from retailers vs. Affirm being the final creditor in the business.
+* Shift the business model to more of a payments platform similar to Visa/MC where new banks enter the system to buy the loans or originate new loans on the platform from retailers vs. Affirm being the final creditor in the business.
 
 
 
