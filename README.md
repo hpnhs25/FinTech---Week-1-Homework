@@ -47,10 +47,8 @@ Affirm went through 12 rounds of VC funding prior to going public in January of 
 
 * Affirm also has merchants as customers because they have to convince merchants to offer their BNPL payment product at check-out along side their other payment options (credit cards, debit cards, cash, prepaid cards and checks).  Affirm leverages their own direct Application Programming Interface (API) to help merchants easily incorporate their payment option at check-out.  Merchants are always interested in anything that helps them drive sales growth and Affirm's BNPL product helps merchants do just that; Merchants also determine if they want to utilize 0% APR financing options or promotional pricing options financed by suppliers to drive sales.  These financing options funded by merchants, manufacturers and merchant suppliers flow to Affirm as revenues to support the BNPL product.   
 
-* Merchants are also provided relationship management support, reporting and analytics insights into customer spending patterns.  Affirm utilizes their technology platform to deliver more in-depth, real-time decision analytics to help merchants drive more sales growth.  This feedback loop between consumer data and merchant data helps drive future sales by better targeting price promotions for BNPL financing which in turn drives Affirms sales growth.  
-
-![Walmart](./asset/walmart.png) 
-
+* Merchants are also provided relationship management support, reporting and analytics insights into customer spending patterns.  Affirm utilizes their technology platform to deliver more in-depth, real-time decision analytics to help merchants drive more sales growth.  This feedback loop between consumer data and merchant data helps drive future sales by better targeting price promotions for BNPL financing which in turn drives Affirms sales growth.
+  
 ![Pel](./asset/PELOTON.png)
 
 ![Shop](./asset/shopify.png) 
